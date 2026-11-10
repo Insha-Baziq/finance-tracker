@@ -1,0 +1,13 @@
+# Local visual QA artifacts and screenshots
+/desktop-*.png
+/mobile-*.png
+/f-m-*.png
+/t-*.png
+/verify-*.png
+/dev-server.log
+/.playwright-mcp/
+/.sisyphus/
+
+# Internal project notes are not part of the deployed application
+/project-context.md
+/docs/
